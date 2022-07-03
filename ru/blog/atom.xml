@@ -1,16 +1,16 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://AlSharp.github.io/free-kalmykia/ru/blog</id>
+    <id>https://AlSharp.github.io/fk-data/ru/blog</id>
     <title>Free Kalmykia Blog</title>
     <updated>2022-07-03T00:00:00.000Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
-    <link rel="alternate" href="https://AlSharp.github.io/free-kalmykia/ru/blog"/>
+    <link rel="alternate" href="https://AlSharp.github.io/fk-data/ru/blog"/>
     <subtitle>Free Kalmykia Blog</subtitle>
-    <icon>https://AlSharp.github.io/free-kalmykia/ru/img/favicon.ico</icon>
+    <icon>https://AlSharp.github.io/fk-data/ru/img/favicon.ico</icon>
     <entry>
         <title type="html"><![CDATA[Welcome]]></title>
         <id>welcome</id>
-        <link href="https://AlSharp.github.io/free-kalmykia/ru/blog/welcome"/>
+        <link href="https://AlSharp.github.io/fk-data/ru/blog/welcome"/>
         <updated>2022-07-03T00:00:00.000Z</updated>
         <summary type="html"><![CDATA[Hi,]]></summary>
         <content type="html"><![CDATA[<p>Hi,</p><p>My name is Albert.</p><p>Today I have started developing a project called <strong>Free Kalmykia in Numbers</strong>. I am welcoming everyone who are interested in economics and politics to join me in the efforts to answer a question: "Is Independent Kalmykia viable?".</p><p><img loading="lazy" src="https://upload.wikimedia.org/wikipedia/commons/9/9f/Flag_of_Kalmykia.svg" alt="Docusaurus Plushie" class="img_ev3q"></p>]]></content>
