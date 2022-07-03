@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunk=self.webpackChunk||[]).push([[790],{9745:e=>{e.exports=JSON.parse('{"label":"independence","permalink":"/fk-data/ru/blog/tags/independence","allTagsPath":"/fk-data/ru/blog/tags","count":1}')}}]);
