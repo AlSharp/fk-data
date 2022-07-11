@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunk=self.webpackChunk||[]).push([[236],{6840:e=>{e.exports=JSON.parse('{"permalink":"/fk-data/ukr/blog/tags/independence","page":1,"postsPerPage":10,"totalPages":1,"totalCount":1,"blogDescription":"Blog","blogTitle":"Blog"}')}}]);
