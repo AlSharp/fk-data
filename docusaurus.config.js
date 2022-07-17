@@ -8,7 +8,7 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 const config = {
   title: 'Free Kalmykia',
   tagline: 'In Numbers',
-  url: 'https://AlSharp.github.io/fk-data/',
+  url: 'https://docs.freekalmykia.org/',
   baseUrl: '/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
@@ -54,6 +54,7 @@ const config = {
   themeConfig:
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
     ({
+      image: 'https://upload.wikimedia.org/wikipedia/commons/9/9f/Flag_of_Kalmykia.svg',
       navbar: {
         title: 'Free Kalmykia',
         logo: {
@@ -97,6 +98,10 @@ const config = {
                 label: 'Discord',
                 href: 'https://discord.gg/yXGswf4Tyg',
               },
+              {
+                label: 'Free Nations League',
+                href: 'https://www.facebook.com/FreeNationsLeague'
+              }
             ],
           },
           {
