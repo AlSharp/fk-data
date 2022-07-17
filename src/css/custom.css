@@ -466,4 +466,8 @@ footer div.col.footer__col {
   font-family: var(--ifm-font-family-monospace) !important;
 }
 
+.text-center {
+  text-align: center;
+}
+
 /* text utils end */
