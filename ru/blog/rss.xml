@@ -4,17 +4,43 @@
         <title>Free Kalmykia Blog</title>
         <link>https://AlSharp.github.io/fk-data/ru/blog</link>
         <description>Free Kalmykia Blog</description>
-        <lastBuildDate>Sun, 03 Jul 2022 00:00:00 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 16 Jul 2022 00:00:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>ru</language>
         <item>
-            <title><![CDATA[Welcome]]></title>
+            <title><![CDATA[Объявление акции в рамках недели порабощенных народов]]></title>
+            <link>https://AlSharp.github.io/fk-data/ru/blog/captive-nations-rally-announcement</link>
+            <guid>captive-nations-rally-announcement</guid>
+            <pubDate>Sat, 16 Jul 2022 00:00:00 GMT</pubDate>
+            <description><![CDATA[23 июля Лига Свободных Наций, сплотившая представителей порабощенных Кремлем народов, проведет мирные уличные акции.]]></description>
+            <content:encoded><![CDATA[<p>23 июля Лига Свободных Наций, сплотившая представителей порабощенных Кремлем народов, проведет мирные уличные акции.</p><p>Нет войне! Долой империю! Свободу народам! Под этими лозунгами мы выходим на улицы городов разных стран мира.</p><p>Мы просим правительства демократических стран поддержать право народов в Российской Федерации на самоопределение. Право на восстановление независимости и создание собственных государств! Право, отнятое у нас силой!</p><p>г. Вильнюс – Кафедральная площадь, 14:00. Литва,</p><p>г. Филадельфия – EST Philadelphia Museum of Art, 2:00 PM. США,</p><p>г. Кливленд – Cleveland Downtown “Free Stamp”. 2:00 PM.</p><p>г. Нью-Йорк - место и время определяется.</p><p>Мы призываем выйти на главные площади ваших городов с требованием предоставления суверенитета народам и территориям Российской Федерации. Если Вы готовы выступить организатором акции в Вашем городе – напишите нам: <a href="mailto:lfn.feedback@gmail.com" target="_blank" rel="noopener noreferrer">lfn.feedback@gmail.com</a></p><p><strong><em>Свободу народам! Свободу людям!</em></strong></p><p><img loading="lazy" alt="Баннер свободу порабощенным народам" src="/ru/assets/images/freedom_to_nations_held_captive_by_russia_sm-51a5e4ce7a135efb66142a776e8d5815.png" width="1024" height="577" class="img_ev3q"></p>]]></content:encoded>
+            <category>Captive Nations Week</category>
+            <category>Free Nations League</category>
+            <category>kalmyks</category>
+            <category>Kalmykia</category>
+            <category>tatars</category>
+            <category>bashkirs</category>
+            <category>buryats</category>
+            <category>Ukraine</category>
+            <category>War</category>
+            <category>Russia</category>
+            <category>порабощенные народы</category>
+            <category>неделю порабощенных народов</category>
+            <category>Лига Свободных Наций</category>
+            <category>калмыки</category>
+            <category>Калмыкия</category>
+            <category>Украина</category>
+            <category>Война</category>
+            <category>Россия</category>
+        </item>
+        <item>
+            <title><![CDATA[Приветствие]]></title>
             <link>https://AlSharp.github.io/fk-data/ru/blog/welcome</link>
             <guid>welcome</guid>
             <pubDate>Sun, 03 Jul 2022 00:00:00 GMT</pubDate>
-            <description><![CDATA[Hi,]]></description>
-            <content:encoded><![CDATA[<p>Hi,</p><p>My name is Albert.</p><p>Today I have started developing a project called <strong>Free Kalmykia in Numbers</strong>. I am welcoming everyone who are interested in economics and politics to join me in the efforts to answer a question: "Is Independent Kalmykia viable?".</p><p><img loading="lazy" src="https://upload.wikimedia.org/wikipedia/commons/9/9f/Flag_of_Kalmykia.svg" alt="Docusaurus Plushie" class="img_ev3q"></p>]]></content:encoded>
+            <description><![CDATA[Привет,]]></description>
+            <content:encoded><![CDATA[<p>Привет,</p><p>Меня зовут Альберт.</p><p>Сегодня Я начал создание веб-сайта "Независимая Калмыкия в цифрах". Я приглашаю всех, кто интересуется экономикой и полотикой, присоединиться ко мне чтобы ответить на вопрос: "Возможна ли Независимая Калмыкия?".</p><p><img loading="lazy" src="https://upload.wikimedia.org/wikipedia/commons/9/9f/Flag_of_Kalmykia.svg" alt="Docusaurus Plushie" class="img_ev3q"></p>]]></content:encoded>
             <category>kalmykia</category>
             <category>independence</category>
         </item>

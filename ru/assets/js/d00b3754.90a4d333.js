@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunk=self.webpackChunk||[]).push([[8400],{6890:a=>{a.exports=JSON.parse('{"label":"\u0412\u043e\u0439\u043d\u0430","permalink":"/ru/blog/tags/\u0432\u043e\u0439\u043d\u0430","allTagsPath":"/ru/blog/tags","count":1}')}}]);
