@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunk=self.webpackChunk||[]).push([[305],{1051:a=>{a.exports=JSON.parse('{"permalink":"/fk-data/ru/blog/tags/kalmykia","page":1,"postsPerPage":10,"totalPages":1,"totalCount":1,"blogDescription":"Blog","blogTitle":"Blog"}')}}]);

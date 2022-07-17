@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunk=self.webpackChunk||[]).push([[535],{5641:e=>{e.exports=JSON.parse('{"title":"\u0421\u0432\u0435\u0436\u0438\u0435 \u043f\u043e\u0441\u0442\u044b","items":[{"title":"Welcome","permalink":"/ru/blog/welcome"}]}')}}]);
