@@ -8,8 +8,8 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 const config = {
   title: 'Free Kalmykia',
   tagline: 'In Numbers',
-  url: 'https://AlSharp.github.io',
-  baseUrl: '/fk-data/',
+  url: 'https://AlSharp.github.io/fk-data/',
+  baseUrl: '/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
   favicon: 'img/favicon.ico',
@@ -25,7 +25,12 @@ const config = {
   // to replace "en" with "zh-Hans".
   i18n: {
     defaultLocale: 'en',
-    locales: ['en', 'ru'],
+    locales: ['en', 'ru', 'hal', 'ukr'],
+    localeConfigs: {
+      hal: {
+        label: 'Halmg Keln'
+      }
+    }
   },
 
   presets: [

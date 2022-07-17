@@ -1,0 +1,14 @@
+{
+  "title": {
+    "message": "Независимая Калмыкия",
+    "description": "The title in the navbar"
+  },
+  "item.label.Introdunction": {
+    "message": "Начало",
+    "description": "Navbar item with label Introdunction"
+  },
+  "item.label.Blog": {
+    "message": "Блог",
+    "description": "Navbar item with label Blog"
+  }
+}
