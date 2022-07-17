@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
     <channel>
         <title>Free Kalmykia Blog</title>
-        <link>https://AlSharp.github.io/fk-data/ru/blog</link>
+        <link>https://docs.freekalmykia.org/ru/blog</link>
         <description>Free Kalmykia Blog</description>
         <lastBuildDate>Sat, 16 Jul 2022 00:00:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
@@ -10,7 +10,7 @@
         <language>ru</language>
         <item>
             <title><![CDATA[Объявление акции в рамках недели порабощенных народов]]></title>
-            <link>https://AlSharp.github.io/fk-data/ru/blog/captive-nations-rally-announcement</link>
+            <link>https://docs.freekalmykia.org/ru/blog/captive-nations-rally-announcement</link>
             <guid>captive-nations-rally-announcement</guid>
             <pubDate>Sat, 16 Jul 2022 00:00:00 GMT</pubDate>
             <description><![CDATA[23 июля Лига Свободных Наций, сплотившая представителей порабощенных Кремлем народов, проведет мирные уличные акции.]]></description>
@@ -36,7 +36,7 @@
         </item>
         <item>
             <title><![CDATA[Приветствие]]></title>
-            <link>https://AlSharp.github.io/fk-data/ru/blog/welcome</link>
+            <link>https://docs.freekalmykia.org/ru/blog/welcome</link>
             <guid>welcome</guid>
             <pubDate>Sun, 03 Jul 2022 00:00:00 GMT</pubDate>
             <description><![CDATA[Привет,]]></description>
