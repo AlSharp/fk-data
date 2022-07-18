@@ -23,9 +23,13 @@ Lithuania, Vilnius - Cathedral Square, 14:00.
 
 USA, Philadelphia - Philadelphia Museum of Art, 2:00 PM.
 
-USA, Cleveland – Cleveland Downtown “Free Stamp”. 2:00 p.m.
+USA, Cleveland – Cleveland Downtown “Free Stamp”, 2:00 p.m.
 
 USA, New York City - TBD
+
+Turkey, Antalya - Fener, Tekelioğlu Cd. No:55. Square in front of the TerraCity shopping center, 17:00.
+
+Czech Republic, Prague - OREA Hotel Pyramida Praha, st. Bělohorská 24, 14:00.
 
 We urge you to go to the main squares of your cities demanding that sovereignty be granted to the captive nations and territories in the Russian Federation. If you are ready to organize an action in your city,  contact us: lfn.feedback@gmail.com
 

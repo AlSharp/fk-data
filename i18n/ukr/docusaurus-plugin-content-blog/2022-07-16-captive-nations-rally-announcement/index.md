@@ -25,9 +25,13 @@ tags: [
  
 м. Філадельфія – EST Philadelphia Museum of Art, 2:00 PM. США, 
  
-м. Клівленд – Cleveland Downtown “Free Stamp”. 2:00 PM. 
+м. Клівленд – Cleveland Downtown “Free Stamp”. 2:00 PM. США,
  
 м. Нью-Йорк – місто і час  визначається. 
+
+м. Анталія – Fener, Tekelioğlu Cd. No:55. Площа перед ТЦ "TerraCity", 17:00. Туреччина,
+
+м. Прага - OREA Hotel Pyramida Praha, вул. Bělohorská 24, 14:00. Чехія
 
 Ми закликаємо вийти на головні площі ваших міст з вимогою надання суверенітету народам на території Російської Федерації. Якщо Ви готові виступити організатором акції у Вашому місті – напишіть нам: lfn.feedback@gmail.com
 
