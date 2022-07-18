@@ -1,0 +1,14 @@
+{
+  "title": {
+    "message": "Free Kalmykia",
+    "description": "The title in the navbar"
+  },
+  "item.label.Introdunction": {
+    "message": "Introdunction",
+    "description": "Navbar item with label Introdunction"
+  },
+  "item.label.Blog": {
+    "message": "Blog",
+    "description": "Navbar item with label Blog"
+  }
+}
