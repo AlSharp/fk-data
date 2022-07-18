@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunk=self.webpackChunk||[]).push([[6192],{9945:e=>{e.exports=JSON.parse('{"permalink":"/hal/blog/tags/\u043a\u0430\u043b\u043c\u044b\u043a\u0438","page":1,"postsPerPage":10,"totalPages":1,"totalCount":2,"blogDescription":"Blog","blogTitle":"Blog"}')}}]);

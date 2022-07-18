@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunk=self.webpackChunk||[]).push([[5550],{6278:e=>{e.exports=JSON.parse('{"label":"Free Nations League","permalink":"/hal/blog/tags/free-nations-league","allTagsPath":"/hal/blog/tags","count":2}')}}]);
