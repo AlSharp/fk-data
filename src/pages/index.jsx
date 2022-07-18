@@ -73,7 +73,7 @@ export default function Home() {
               </h2>
               <p className="text-indent-3">
                 <Translate>
-                  Kalmykia is potentially one of the richest countries in Europe. It is currently an undeveloped country due to Russia's colonial and anti-development policies toward national republics, but with the wise government open to the world, it can produce millions of tons of crude oil and natural gas, related refined products, agricultural products and professional IT services. One of the main advantages of Kalmykia is its small population, per capita production indicators are very high:
+                  Kalmykia is potentially one of the richest countries in Europe. It is currently an undeveloped country due to Russia's colonial and anti-development policies toward national republics, but with the wise government open to the world, it can produce millions of tons of crude oil and natural gas, related refined products, agricultural products. One of the main advantages of Kalmykia is its small population, per capita production indicators are very high:
                 </Translate>
               </p>
             </div>
