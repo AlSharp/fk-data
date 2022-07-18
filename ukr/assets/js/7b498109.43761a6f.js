@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunk=self.webpackChunk||[]).push([[3098],{604:e=>{e.exports=JSON.parse('{"permalink":"/ukr/blog/tags/\u043f\u043e\u043d\u0435\u0432\u043e\u043b\u0435\u043d\u0456-\u043d\u0430\u0440\u043e\u0434\u0438","page":1,"postsPerPage":10,"totalPages":1,"totalCount":1,"blogDescription":"Blog","blogTitle":"Blog"}')}}]);
