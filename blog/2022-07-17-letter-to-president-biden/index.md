@@ -3,10 +3,8 @@ slug: letter-to-president-biden
 title: Free Nations League sends letter to President Joe Biden
 authors: [freenationsleague]
 image: ./biden_reads_the_letter.jpg
-tags: [
-  Captive Nations Week, Free Nations League,
-  Неделя Порабощенных Народов, Лига Свободных Наций
-]
+tags: [Captive Nations Week, Free Nations League, US Government]
+keywrods: [Captive Nations Week, Free Nations League, US Government, USA, Biden, letter to Biden, Kalmykia, Buryatia, Tatarstan, Public Law 86-90]
 ---
 
 **<div>US President</div>**

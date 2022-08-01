@@ -2,7 +2,8 @@
 slug: welcome
 title: Welcome
 authors: [albert]
-tags: [kalmykia, independence]
+tags: []
+keywords: [Albert Sharapov, Альберт Шарапов]
 ---
 
 Hi,

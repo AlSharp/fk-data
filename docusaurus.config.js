@@ -54,6 +54,10 @@ const config = {
   themeConfig:
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
     ({
+      metadata: [
+        { name: 'keywords', content: 'Kalmykia, kalmyk, kalmyks, oirat, oirats, independence, freekalmykia, free kalmykia, captive nations, Elista' },
+        { name: 'keywords', content: 'Калмыкия, калмык, калмыки, ойрат, ойраты, независимость, Независимая Калмыкия, порабощенные народы, Элиста' }
+      ],
       image: 'https://upload.wikimedia.org/wikipedia/commons/9/9f/Flag_of_Kalmykia.svg',
       navbar: {
         title: 'Free Kalmykia',

@@ -3,12 +3,8 @@ slug: captive-nations-rally-announcement
 title: Captive Nations Week Rally Announcement
 authors: [freenationsleague]
 image: ./freedom_to_nations_held_captive_by_russia_sm.png
-tags: [
-  Captive Nations Week, Free Nations League,
-  kalmyks, Kalmykia, tatars, bashkirs, buryats,
-  Ukraine, War, Russia,
-  порабощенные народы, неделю порабощенных народов, Лига Свободных Наций, калмыки, Калмыкия, Украина, Война, Россия
-]
+tags: [Captive Nations Week, Free Nations League, rally]
+keywords: [Captive Nations Week, Free Nations League, kalmyks, oirats, buryats, tatars, Russia, Ukraine, war, freedom]
 ---
 
 # Activists of the national movement of nations held captive by the Russian Federation will rally in different countries in order to bring the anti-imperial activists all around the world together.
