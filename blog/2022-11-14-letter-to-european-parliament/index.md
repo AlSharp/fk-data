@@ -30,7 +30,7 @@ tags: [
   <meta property="og:url" content="https://docs.freekalmykia.org/blog/letter-to-european-parliament" />
   <meta
     property="og:image"
-    content="https://docs.freekalmykia.org/blog/declaration-on-independence/metsola.jpg"
+    content="https://docs.freekalmykia.org/img/social/metsola.jpg"
   />
   <link rel="icon" type="image/png" href="./favicon.png" />
 </head>
