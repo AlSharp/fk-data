@@ -13,20 +13,6 @@ tags: [
 <head>
   <title>Free Kalmykia - Letter to European Parliament President Roberta Metsola</title>
   <meta
-    name="twitter:card"
-    content="summary_large_image"
-  />
-  <meta property="twitter:site" content="@freekalmykia" />
-  <meta property="twitter:title" content="Letter to European Parliament President Roberta Metsola" />
-  <meta
-    property="twitter:description"
-    content="They talk to Muscovites about our lands and our wealth, they talk behind our back. We ask you not to oppose our peoples to ethnic Russians, moving us away from contacts with the European Parliament, and replacing dialogue with the peoples of the Russian Federation with a dialogue with several Moscow politicians."
-  />
-  <meta
-    property="twitter:image"
-    content="https://docs.freekalmykia.org/img/social/metsola.jpg"
-  />
-  <meta
     name="description"
     content="They talk to Muscovites about our lands and our wealth, they talk behind our back. We ask you not to oppose our peoples to ethnic Russians, moving us away from contacts with the European Parliament, and replacing dialogue with the peoples of the Russian Federation with a dialogue with several Moscow politicians."
     key="desc"
@@ -36,13 +22,22 @@ tags: [
     property="og:description"
     content="They talk to Muscovites about our lands and our wealth, they talk behind our back. We ask you not to oppose our peoples to ethnic Russians, moving us away from contacts with the European Parliament, and replacing dialogue with the peoples of the Russian Federation with a dialogue with several Moscow politicians."
   />
-  <meta property="og:site_name" content="Free Kalmykia Docs" />
-  <meta property="og:type" content="article" />
   <meta property="og:url" content="https://docs.freekalmykia.org/blog/letter-to-european-parliament" />
+  <meta property="og:site_name" content="Free Kalmykia Docs" />
+  <meta property="og:image" content="https://docs.freekalmykia.org/img/social/metsola.jpg" />
+  <meta property="og:image:width" content="1200" />
+  <meta property="og:image:height" content="630" />
+  <meta property="og:type" content="article" />
+  <meta name="twitter:card" content="summary_large_image" />
+  <meta property="twitter:site" content="@freekalmykia" />
+  <meta property="twitter:title" content="Letter to European Parliament President Roberta Metsola" />
   <meta
-    property="og:image"
-    content="https://docs.freekalmykia.org/img/social/metsola.jpg"
+    property="twitter:description"
+    content="They talk to Muscovites about our lands and our wealth, they talk behind our back. We ask you not to oppose our peoples to ethnic Russians, moving us away from contacts with the European Parliament, and replacing dialogue with the peoples of the Russian Federation with a dialogue with several Moscow politicians."
   />
+  <meta property="twitter:image" content="https://docs.freekalmykia.org/img/social/metsola.jpg" />
+  <meta property="twitter:domain" content="freekalmykia.org" />
+  
   <link rel="icon" type="image/png" href="./favicon.png" />
 </head>
 
