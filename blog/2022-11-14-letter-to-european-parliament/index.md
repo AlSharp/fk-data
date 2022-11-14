@@ -1,6 +1,6 @@
 ---
 slug: letter-to-european-parliament
-title: Letter to European Parliament President Roberta Metsola
+title: Письмо Президенту Европейского Парламента Roberta Metsola
 authors: [freenationsleague]
 tags: [
   Captive Nations Week, Free Nations League,
@@ -11,16 +11,16 @@ tags: [
 ---
 
 <head>
-  <title>Free Kalmykia - Letter to European Parliament President Roberta Metsola</title>
+  <title>Free Kalmykia - Письмо Президенту Европейского Парламента Roberta Metsola</title>
   <meta
     name="description"
-    content="They talk to Muscovites about our lands and our wealth, they talk behind our back. We ask you not to oppose our peoples to ethnic Russians, moving us away from contacts with the European Parliament, and replacing dialogue with the peoples of the Russian Federation with a dialogue with several Moscow politicians."
+    content="Говорят с москвичами о наших землях и наших богатствах, говорят за нашей спиной. Мы просим Вас не противопоставлять наши народы этническим русским, отодвигая нас от контактов с Европарламентом, и подменяя диалог с народами РФ, диалогом с несколькими московскими политиками."
     key="desc"
   />
-  <meta property="og:title" content="Letter to European Parliament President Roberta Metsola" />
+  <meta property="og:title" content="Письмо Президенту Европейского Парламента Roberta Metsola" />
   <meta
     property="og:description"
-    content="They talk to Muscovites about our lands and our wealth, they talk behind our back. We ask you not to oppose our peoples to ethnic Russians, moving us away from contacts with the European Parliament, and replacing dialogue with the peoples of the Russian Federation with a dialogue with several Moscow politicians."
+    content="Говорят с москвичами о наших землях и наших богатствах, говорят за нашей спиной. Мы просим Вас не противопоставлять наши народы этническим русским, отодвигая нас от контактов с Европарламентом, и подменяя диалог с народами РФ, диалогом с несколькими московскими политиками."
   />
   <meta property="og:url" content="https://docs.freekalmykia.org/blog/letter-to-european-parliament" />
   <meta property="og:site_name" content="Free Kalmykia Docs" />
@@ -30,10 +30,10 @@ tags: [
   <meta property="og:type" content="article" />
   <meta name="twitter:card" content="summary_large_image" />
   <meta property="twitter:site" content="@freekalmykia" />
-  <meta property="twitter:title" content="Letter to European Parliament President Roberta Metsola" />
+  <meta property="twitter:title" content="Письмо Президенту Европейского Парламента Roberta Metsola" />
   <meta
     property="twitter:description"
-    content="They talk to Muscovites about our lands and our wealth, they talk behind our back. We ask you not to oppose our peoples to ethnic Russians, moving us away from contacts with the European Parliament, and replacing dialogue with the peoples of the Russian Federation with a dialogue with several Moscow politicians."
+    content="Говорят с москвичами о наших землях и наших богатствах, говорят за нашей спиной. Мы просим Вас не противопоставлять наши народы этническим русским, отодвигая нас от контактов с Европарламентом, и подменяя диалог с народами РФ, диалогом с несколькими московскими политиками."
   />
   <meta property="twitter:image" content="https://docs.freekalmykia.org/img/social/metsola.jpg" />
   <meta property="twitter:domain" content="freekalmykia.org" />
@@ -47,95 +47,85 @@ tags: [
 
 ***Roberta Metsola***
 
-Dear Madam President!
+Уважаемая госпожа Президент!
 
-We take this opportunity to assure you of our highest consideration.
+Пользуясь возможностью, заверяем Вас в нашем высоком уважении.
 
-The Free Nations League, uniting Tatars, Bashkirs, Buryats, Yakuts, Kalmyks, Chechens, Erzyans, Mokshans, Cossacks and Ingrians in their fight for the right to self-determination, is addressing you.
+К Вам обращается Лига Свободных Наций, объединяющая татар, башкир, бурят, якутов, калмыков, чеченцев, эрзян, мокшан, казаков и ингерманландцев в их борьбе за реализацию права на самоопределение.
 
-Today we are deprived thereof, because our republics and regions  were transformed  into colonies of centralized empire. Our peoples are not allowed to study in their native language. Our national organizations and parties are banned and dissolved. Our politicians are imprisoned, killed, maimed or forced to emigrate. Moscow is plundering the republics, rapaciously exploiting their rich subsoil, leaving ruins and ecological disaster zones. Our peoples became subjects to covert genocide, since Moscow is mobilizing a disproportionate number of representatives of the autochthonous population to continue the barbaric war in Ukraine.
+Сегодня мы лишены конституционного права на самоопределение, ведь наши республики и территории фактически превращены в колонии централизованной империи. Нашим народам не дают учиться на родном языке. Наши национальные организации и партии запрещены и разгромлены. Наших политиков бросают за решетку, убивают, калечат или заставляют бежать за границу. Москва грабит республики, хищнически эксплуатируя ее богатые недра, оставляя руины и зону экологического бедствия. Наши народы подвергнуты скрытому этноциду – Москва мобилизует на преступную захватническую войну в Украине непропорционально высокое количество представителей автохтонного населения.
 
-However, even in these conditions, our peoples demonstrate their subjectness not only by means of political statements, but also by means of  direct actions, preventing mobilization for another aggressive colonial war waged by Russia upon  Ukraine.
+Однако даже в этих условиях наши народы демонстрирует свою субъектность. И не только политическими заявлениями, но и акциями прямого действия, препятствуют мобилизации на очередную захватническую колониальную войну, которую ведет Россия против Украины.
 
-Despite the fact that ethnic non-Russians make up a significant part of the population of the Russian Federation, and the national republics occupy the vast territory of a pseudo-federation, our voice is ignored and systematically muffled.
+Не взирая на тот факт, что этнические нерусские составляют заметную часть населения РФ, а национальные республики занимают огромную территорию псевдофедерации – наш голос игнорируется и систематически глушится.
 
-Moreover, we notice  that the Russian opposition politicians in exile speak publicly on behalf of all the territories and all the peoples of the Russian Federation, for which they do not have a legitimate  mandate.
+Более того, мы вынуждены констатировать, что русские оппозиционные круги в эмиграции публично выступают от имени всех территорий и всех народов РФ, на что не имеют представительного мандата.
+Учитывая это, мы, члены Лиги Свободных Наций, заявляем:
 
-With this in mind, we, the members of the Free Nations League, declare:
+1.   Любые переговоры в отношении территорий, которые сегодня находятся под властью Москвы, должны проходить с нашим участием – татар, башкир, бурят, якутов, калмыков, чеченцев, эрзян, мокшан, казаков, а также представителей других народов и регионалистских движений.
+2.   Русские оппозиционные политики в эмиграции могут представлять себя, однако ни одно из национальных движений, ни один национальный представительный орган не давал им мандат на представительство наших интересов.
+3.   Диалог «о России» с представителями московских элит либо контрэлит, за спиной народов Северного Кавказа, Идель-Урала, Сибири, а также других московских колоний – необратимо приведет к радикализации ситуации. Люди получат четкий сигнал от европейских политиков: говорят с москвичами о наших землях и наших богатствах, говорят за нашей спиной.
+ 
+Мы просим Вас не противопоставлять наши народы этническим русским, отодвигая нас от контактов с Европарламентом, и подменяя диалог с народами РФ, диалогом с несколькими московскими политиками. Лига Свободных Наций не признает никаких «переходных правительств», либо других самопровозглашенных структур русской оппозиции.
 
-1. Any negotiations regarding the territories that are now under the rule of Moscow must take place with our participation – Tatars, Bashkirs, Buryats, Yakuts, Kalmyks, Chechens, Erzyans, Mokshans, Cossacks, as well as representatives of other peoples and regionalist movements.
+Мы рассчитываем на Вашу взвешенную и мудрую позицию.
 
-2. Russian opposition politicians in exile can represent themselves, but none of the national movements, not a single national representative body has given them a mandate to represent our interests.
+С уважением,
 
-3. A dialogue “about Russia” with representatives of the Moscow elites or counter-elites, behind the back of the peoples of the North Caucasus, Idel-Ural, Siberia, as well as other Moscow colonies, will irreversibly lead to a tension and radicalization of the situation. Non-Russian ethnicities   will receive a clear signal from European politicians: ***‘They talk to Muscovites about our lands and our wealth, they talk behind our back’***.
+обращение подписали представители национальных движений:
 
-We ask you not to oppose our peoples to ethnic Russians, moving us away from contacts with the European Parliament, and replacing dialogue with the peoples of the Russian Federation with a dialogue with several Moscow politicians. The Free Nations League does not recognize any "transitional governments" or other self-proclaimed structures of the Russian opposition.
+***Башкирского***
 
-We are counting on your balanced and wise position.
+Руслан Габбасов, руководитель Башкирского Национального Политического Центра (БНПЦ)
 
-Sincerely,
-The appeal was signed by representatives of national movements:
+Ильшат Кинзябаев, член БНПЦ
 
-**Bashkir**
+***Бурятского*** 
 
-Ruslan Gabbasov, head of the Bashkir National Political Center (BNPC)
+Доржо Дугаров, представитель Бурятского демократического движения "Буряад-Монгол Эрхэтэн" в Европейском союзе
 
-Ilshat Kinzyabaev, member of the Bashkir National Political Center
+Раджана Дугар-ДеПонте, представитель Бурятского демократического движения "Буряад-Монгол Эрхэтэн" в США
 
-**Buryat**
+***Казачьего***
 
-Dorzho Dugarov, representative of the Buryat democratic movement "Buryad-Mongol Erkheten" in the European Union
+Вячеслав Демин, старейшина Казачьего национально-освободительного движения
 
-Radjana Dugar-DePonte, representative of the Buryat democratic movement "Buryad-Mongol Erkheten" in the USA
+***Ойрат-калмыцкого***
 
-**Cossack**
+Арсланг Санджиев, председатель Конгресса ойрат-калмыцкого народа
 
-Vyacheslav Demin, elder of the Cossack National Liberation Movement
+Эренцен Доляев, заместитель председателя Конгресса ойрат-калмыцкого народа
 
-Ingrian 
+Батыр Боромангнаев, заместитель председателя Конгресса ойрат-калмыцкого народа
 
-Mike Ingram, Leader of Ingrian Renaissance Association.
+Владимир Довданов, заместитель председателя Конгресса ойрат-калмыцкого народа
 
-**Oirat-Kalmyk**
+Альберт Шарапов, член Конгресса ойрат-калмыцкого народа
 
-Arslang Sandzhiev, Chairman of the Congress of the Oirat-Kalmyk People
+Даавр Доржин, член Конгресса ойрат-калмыцкого народа
 
-Erentsen Dolyaev, Deputy Chairman of the Congress of the Oirat-Kalmyk People
+***Татарского***
 
-Batyr Boromangnaev, Deputy Chairman of the Congress of the Oirat-Kalmyk People
+Рафис Кашапов, Вице-премьер-министр правительства независимого Татарстана в изгнании, один из соучредителей движения «Свободный Идел-Урал»
 
-Vladimir Dovdanov, Deputy Chairman of the Congress of the Oirat-Kalmyk People
+Фарит Закиев, председатель Всетатарского общественного центра
 
-Albert Sharapov, Member of the Congress of the Oirat-Kalmyk People
+Нафис Кашапов, Вице-премьер-министр правительства независимого Татарстана в изгнании
 
-Daavr Dorzhin, Member of the Congress of the Oirat-Kalmyk People
+Иршат Хаби политический эмигрант.
 
-**Moksha**
+***Чеченского***
 
-Chovhanon Donisi, Head of the Committee of the Moksha nation representatives (in exile)
+Хамзат Грозный, политический эмигрант во Франции из Чеченской Республики Ичкерия
 
-**Tatar**
+***Эрзянского***
 
-Rafis Kashapov, Vice Prime Minister of the government of independent Tatarstan in exile, one of the co-founders of the Free Idel-Ural movement
+Боляень Сыресь, главный старейшина эрзянского народа
 
-Farit Zakiyev, Chairman of the All-Tatar Public Center
+Виталий Ромашкин, член Совета старейшин
 
-Nafis Kashapov, Vice Prime Minister of the government of independent Tatarstan in exile
+Ожомасонь Кирдя
 
-Irshat Khabi, a political emigrant
+***Якутского***
 
-**Chechen**
-
-Khamzat Grozny, political émigré in France from the Chechen Republic of Ichkeria
-
-**Erzya**
-
-Bolyaen Syres, chief elder of the Erzya people
-
-Vitaly Romashkin, member of the Council of Elders
-
-Ozhomason Kirdya
-
-**Yakut**
-
-Raisa Zubareva, co-founder of the Free Yakutia Foundation
+Раиса Зубарева, соучредитель фонда "Свободная Якутия"
