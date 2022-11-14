@@ -23,6 +23,10 @@ tags: [
     content="They talk to Muscovites about our lands and our wealth, they talk behind our back. We ask you not to oppose our peoples to ethnic Russians, moving us away from contacts with the European Parliament, and replacing dialogue with the peoples of the Russian Federation with a dialogue with several Moscow politicians."
   />
   <meta
+    property="twitter:image"
+    content="https://docs.freekalmykia.org/img/social/metsola.jpg"
+  />
+  <meta
     name="description"
     content="They talk to Muscovites about our lands and our wealth, they talk behind our back. We ask you not to oppose our peoples to ethnic Russians, moving us away from contacts with the European Parliament, and replacing dialogue with the peoples of the Russian Federation with a dialogue with several Moscow politicians."
     key="desc"
