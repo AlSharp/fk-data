@@ -12,7 +12,7 @@ As someone who actively participates in the liberation movement and observes the
 
 When we talk about our peoples we prefer to use the term "captive nations" or "nations held captive by the Russian Federation". It is important for us to send a message to other countries, to the democratic countries in Europe, Asia, to the USA and Canada, that we are not Russians. Every captive nation has a history of fighting for independence in the 20th century.
 
-![Freedom to Captive Nations banner](/img/social/freedom_to_nations_held_captive_by_russia_sm.png)
+![Freedom to Captive Nations banner](./philadelphia_rally.jpg)
 
 The war in Ukraine does open an opportunity for our nations to secede from Russia, create our own independent democratic states and become a place where our peoples can live peacefully and flourish. Such opportunities have happened before in history. When Russian Empire collapsed, we did mistake when we believed communists and fell into slavery for many decades. You know, Ukraine was also among these deceived and captive nations. When the Soviet Union collapsed, our freedom again was taken away. With genocidal war against freedom-loving Chechen people, Russia demonstrated to other peoples what they could expect if they pursued freedom. This time, we don't want to make a mistake and miss the chance. For this, our nations established the Free Nations League - an organization whose main goal is creating independent national states in place of the Russian Federation and preventing the revival of the Russian fascist state.
 
