@@ -2,20 +2,12 @@
 slug: declaration-on-independence
 title: Declaration on State Independence of the Republic of Kalmykia
 authors: [oiradcongress]
-tags: [
-  Captive Nations Week, Free Nations League,
-  kalmyks, Kalmykia, oirads, oirad-kalmyks,
-  Ukraine, War, Russia, Kalmykia,
-  порабощенные народы, неделю порабощенных народов, Лига Свободных Наций, калмыки, Калмыкия, Украина, Война, Россия
-]
+image: https://freekalmykia.org/icon.png
+tags: [Captive Nations, Kalmykia]
 ---
 
 <head>
   <title>Free Kalmykia - Declaration on State Independence of the Republic of Kalmykia</title>
-  <meta
-    name="twitter:card"
-    content="summary_large_image"
-  />
   <meta
     name="description"
     content="The Congress of the Oirat-Kalmyk People appeals to all representatives of the Oirat-Kalmyk  people, wherever they live, to the entire multinational population of the Republic of Kalmykia — to support this Declaration in every possible way and be ready for the practical implementation  of the stated goal, to try to make their own contribution to the formation, strengthening and  development of the future free, independent and prosperous Republic of Kalmykia!"
@@ -26,13 +18,8 @@ tags: [
     property="og:description"
     content="The Congress of the Oirat-Kalmyk People appeals to all representatives of the Oirat-Kalmyk  people, wherever they live, to the entire multinational population of the Republic of Kalmykia — to support this Declaration in every possible way and be ready for the practical implementation  of the stated goal, to try to make their own contribution to the formation, strengthening and  development of the future free, independent and prosperous Republic of Kalmykia!"
   />
-  <meta property="og:type" content="article" />
-  <meta property="og:url" content="https://docs.freekalmykia.org/blog/declaration-on-independence" />
-  <meta
-    property="og:image"
-    content="https://freekalmykia.org/icon.png"
-  />
-  <link rel="icon" type="image/png" href="./favicon.png" />
+  <meta name="twitter:title" content="Declaration on State Independence of the Republic of Kalmykiat" />
+  <meta name="twitter:description" content="The Congress of the Oirat-Kalmyk People appeals to all representatives of the Oirat-Kalmyk  people, wherever they live, to the entire multinational population of the Republic of Kalmykia — to support this Declaration in every possible way and be ready for the practical implementation  of the stated goal, to try to make their own contribution to the formation, strengthening and  development of the future free, independent and prosperous Republic of Kalmykia!" />
 </head>
 
 ***translated by Google, edited James Ward***

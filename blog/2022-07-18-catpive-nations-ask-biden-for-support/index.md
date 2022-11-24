@@ -3,10 +3,7 @@ slug: captive-nations-ask-biden-for-support
 title: Biden is being asked to support the nations held captive by Moscow
 authors: [freenationsleague]
 image: ./captive-nations-ask-for-support-in-front-of-wh.jpg
-tags: [
-  Captive Nations Week, Free Nations League,
-  Порабощенные Народы, Неделя Порабощенных Народов, Лига Свободных Наций, калмыки, Калмыкия, Украина, Война, Россия
-]
+tags: [Captive Nations]
 ---
 
 On July 17, the Free Nations League (FNL), which united representatives of nations held captive by the Kremlin, appealed to US President Joe Biden.  In their open letter, activists of national movements ask for support for their peoples in exercising their right to self-determination.

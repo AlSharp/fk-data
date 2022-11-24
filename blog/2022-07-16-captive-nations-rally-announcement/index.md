@@ -2,12 +2,22 @@
 slug: captive-nations-rally-announcement
 title: Captive Nations Week Rally Announcement
 authors: [freenationsleague]
-image: ./freedom_to_nations_held_captive_by_russia_sm.png
-tags: [Captive Nations Week, Free Nations League, rally]
-keywords: [Captive Nations Week, Free Nations League, kalmyks, oirats, buryats, tatars, Russia, Ukraine, war, freedom]
+tags: [Captive Nations]
 ---
 
-# Activists of the national movement of nations held captive by the Russian Federation will rally in different countries in order to bring the anti-imperial activists all around the world together.
+<head>
+  <title>Free Kalmykia - Captive Nations Week Rally Announcement</title>
+  <meta name="description" content="Activists of the national movement of nations held captive by the Russian Federation will rally in different countries in order to bring the anti-imperial activists all around the world together." key="desc" />
+  <meta property="og:title" content="Captive Nations Week Rally Announcement" />
+  <meta property="og:description" content="Activists of the national movement of nations held captive by the Russian Federation will rally in different countries in order to bring the anti-imperial activists all around the world together."
+  />
+  <meta property="og:image" content="https://docs.freekalmykia.org/img/social/freedom_to_nations_held_captive_by_russia_sm.png" />
+  <meta property="og:url" content="https://docs.freekalmykia.org/blog/captive-nations-rally-announcement" />
+  <meta name="twitter:title" content="Captive Nations Week Rally Announcement" />
+  <meta name="twitter:description" content="Activists of the national movement of nations held captive by the Russian Federation will rally in different countries in order to bring the anti-imperial activists all around the world together." />
+</head>
+
+Activists of the national movement of nations held captive by the Russian Federation will rally in different countries in order to bring the anti-imperial activists all around the world together.
 
 On July 23, the Free Nations League, which brings together representatives of the nations held captive by the Kremlin, will hold peaceful street actions.
 
@@ -31,4 +41,4 @@ We urge you to go to the main squares of your cities demanding that sovereignty 
 
 ***Freedom for Nations! Freedom for Individuals!***
 
-![Freedom to Captive Nations banner](./freedom_to_nations_held_captive_by_russia_sm.png)
+![Freedom to Captive Nations banner](/img/social/freedom_to_nations_held_captive_by_russia_sm.png)

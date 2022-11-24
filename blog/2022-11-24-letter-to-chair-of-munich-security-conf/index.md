@@ -1,38 +1,35 @@
 ---
-slug: letter-to-european-parliament
-title: Letter to European Parliament President Roberta Metsola
+slug: letter-to-chair-of-munich-security-conf
+title: Letter to Chair of the Munich Security Conference Christoph Heusgen
 authors: [freenationsleague]
+image: ./heusgen.jpg
 tags: [Captive Nations]
 ---
 
 <head>
-  <title>Free Kalmykia - Letter to European Parliament President Roberta Metsola</title>
+  <title>Free Kalmykia - Letter to Chair of the Munich Security Conference Christoph Heusgen</title>
   <meta
     name="description"
-    content="They talk to Muscovites about our lands and our wealth, they talk behind our back. We ask you not to oppose our peoples to ethnic Russians, moving us away from contacts with the European Parliament, and replacing dialogue with the peoples of the Russian Federation with a dialogue with several Moscow politicians."
+    content="We would like to believe that MSC2022 understands there is a place not only for dialogue with Russians, but also for dialogue with Tatars, Bashkirs, Buryats, Yakuts, Kalmyks, Chechens, Erzyans, Mokshans, Cossacks, Ingrians and other peoples."
     key="desc"
   />
-  <meta property="og:title" content="Letter to European Parliament President Roberta Metsola" />
   <meta
     property="og:description"
-    content="They talk to Muscovites about our lands and our wealth, they talk behind our back. We ask you not to oppose our peoples to ethnic Russians, moving us away from contacts with the European Parliament, and replacing dialogue with the peoples of the Russian Federation with a dialogue with several Moscow politicians."
+    content="We would like to believe that MSC2022 understands there is a place not only for dialogue with Russians, but also for dialogue with Tatars, Bashkirs, Buryats, Yakuts, Kalmyks, Chechens, Erzyans, Mokshans, Cossacks, Ingrians and other peoples."
   />
-  <meta property="og:image" content="https://docs.freekalmykia.org/img/social/metsola.jpg" />
-  <meta name="twitter:title" content="Letter to European Parliament President Roberta Metsola" />
   <meta
     name="twitter:description"
-    content="They talk to Muscovites about our lands and our wealth, they talk behind our back. We ask you not to oppose our peoples to ethnic Russians, moving us away from contacts with the European Parliament, and replacing dialogue with the peoples of the Russian Federation with a dialogue with several Moscow politicians."
+    content="We would like to believe that MSC2022 understands there is a place not only for dialogue with Russians, but also for dialogue with Tatars, Bashkirs, Buryats, Yakuts, Kalmyks, Chechens, Erzyans, Mokshans, Cossacks, Ingrians and other peoples."
   />
-  <meta name="twitter:image" content="https://docs.freekalmykia.org/img/social/metsola.jpg" />
 </head>
 
-**November 14, 2022**
+**November 24, 2022**
 
-***European Parliament President***
+***Chair of the Munich Security Conference***
 
-***Roberta Metsola***
+***Christoph Heusgen***
 
-Dear Madam President!
+Dear Mr. Heusgen!
 
 We take this opportunity to assure you of our highest consideration.
 
@@ -44,21 +41,16 @@ However, even in these conditions, our peoples demonstrate their subjectness not
 
 Despite the fact that ethnic non-Russians make up a significant part of the population of the Russian Federation, and the national republics occupy the vast territory of a pseudo-federation, our voice is ignored and systematically muffled.
 
-Moreover, we notice  that the Russian opposition politicians in exile speak publicly on behalf of all the territories and all the peoples of the Russian Federation, for which they do not have a legitimate  mandate.
+From your Twitter account, we learned that representatives of Russian opposition groups in exile are planning to attend the upcoming MSC2022 meeting. We applaud the Conference's decision not to invite officials from the Kremlin and to give voice to those who publicly condemn Russia's invasion of Ukraine and do not support this unjust colonial war.
 
-With this in mind, we, the members of the Free Nations League, declare:
+In this regard, we ask you to give the opportunity to speak at the forum to the representatives of the Free Nations League. We sincerely hope that the conversation about the future of the Russian territories provides an opportunity to hear our opinion – the opinion of millions of representatives of indigenous peoples and residents of the regions. We would like to believe that  MSC2022 understands there is a place not only for dialogue with Russians, but also for dialogue with Tatars, Bashkirs, Buryats, Yakuts, Kalmyks, Chechens, Erzyans, Mokshans, Cossacks, Ingrians and other peoples.
 
-1. Any negotiations regarding the territories that are now under the rule of Moscow must take place with our participation – Tatars, Bashkirs, Buryats, Yakuts, Kalmyks, Chechens, Erzyans, Mokshans, Cossacks, as well as representatives of other peoples and regionalist movements.
-
-2. Russian opposition politicians in exile can represent themselves, but none of the national movements, not a single national representative body has given them a mandate to represent our interests.
-
-3. A dialogue “about Russia” with representatives of the Moscow elites or counter-elites, behind the back of the peoples of the North Caucasus, Idel-Ural, Siberia, as well as other Moscow colonies, will irreversibly lead to a tension and radicalization of the situation. Non-Russian ethnicities   will receive a clear signal from European politicians: ***‘They talk to Muscovites about our lands and our wealth, they talk behind our back’***.
-
-We ask you not to oppose our peoples to ethnic Russians, moving us away from contacts with the European Parliament, and replacing dialogue with the peoples of the Russian Federation with a dialogue with several Moscow politicians. The Free Nations League does not recognize any "transitional governments" or other self-proclaimed structures of the Russian opposition.
+We ask you not to oppose our peoples to ethnic Russians, moving us away from contacts with the European Parliament, and replacing dialogue with the peoples in the Russian Federation with a dialogue with several Moscow politicians. The Free Nations League does not recognize any so-called "transitional governments" or other self-proclaimed structures of the Russian opposition.
 
 We are counting on your balanced and wise position.
 
 Sincerely,
+
 The appeal was signed by representatives of national movements:
 
 **Bashkir**

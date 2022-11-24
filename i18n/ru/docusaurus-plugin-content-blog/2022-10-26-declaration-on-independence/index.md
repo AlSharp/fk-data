@@ -2,12 +2,7 @@
 slug: declaration-on-independence
 title: Декларация «О государственной независимости Республики Калмыкия»
 authors: [oiradcongress]
-tags: [
-  Captive Nations Week, Free Nations League,
-  kalmyks, Kalmykia, oirads, oirad-kalmyks,
-  Ukraine, War, Russia, Kalmykia,
-  порабощенные народы, неделю порабощенных народов, Лига Свободных Наций, калмыки, Калмыкия, Украина, Война, Россия
-]
+tags: [Captive Nations]
 ---
 
 <head>

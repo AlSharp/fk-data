@@ -2,12 +2,7 @@
 slug: about-upcoming-actions
 title: Albert speaks about Free Nations League upcoming actions
 authors: [albert]
-tags: [
-  Captive Nations Week, Free Nations League,
-  kalmyks, Kalmykia, tatars, bashkirs, buryats,
-  Ukraine, War, Russia,
-  порабощенные народы, неделю порабощенных народов, Лига Свободных Наций, калмыки, Калмыкия, Украина, Война, Россия
-]
+tags: [Captive Nations]
 ---
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/7aJqg7y73go" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>

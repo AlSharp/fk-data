@@ -3,13 +3,16 @@ slug: salvation-in-independence
 title: '"Salvation in independence": Nations held captive by Moscow rallies in 11 cities around the world'
 authors: [freenationsleague]
 image: ./image-23-07-22-21-33-3.jpeg
-tags: [
-  Captive Nations Week, Free Nations League,
-  kalmyks, Kalmykia, tatars, bashkirs, buryats,
-  Ukraine, War, Russia,
-  порабощенные народы, неделю порабощенных народов, Лига Свободных Наций, калмыки, Калмыкия, Украина, Война, Россия
-]
+tags: [Captive Nations]
 ---
+
+<head>
+  <title>Free Kalmykia - Captive Nations Week Rally Announcement</title>
+  <meta name="description" content="Activists of the national movement of nations held captive by the Russian Federation will rally in different countries in order to bring the anti-imperial activists all around the world together." key="desc" />
+  <meta property="og:description" content="Activists of the national movement of nations held captive by the Russian Federation will rally in different countries in order to bring the anti-imperial activists all around the world together."
+  />
+  <meta name="twitter:description" content="Activists of the national movement of nations held captive by the Russian Federation will rally in different countries in order to bring the anti-imperial activists all around the world together." />
+</head>
 
 ![Kalmyks and Buryats in Philly](./image-23-07-22-21-33-3.jpeg)
 

@@ -3,14 +3,7 @@ slug: captive-nations-rally-announcement
 title: Анонс акції в рамках Тижня Поневолених народів
 authors: [freenationsleague]
 image: ./freedom_to_nations_held_captive_by_russia_sm.png
-tags: [
-  Captive Nations Week, Free Nations League,
-  kalmyks, Kalmykia, tatars, bashkirs, buryats,
-  Ukraine, War, Russia,
-  порабощенные народы, неделю порабощенных народов,
-  Поневолені народи,
-  Лига Свободных Наций, калмыки, Калмыкия, Украина, Война, Россия
-]
+tags: [Captive Nations]
 ---
 
 # Активісти національних рухів поневолених Росією народів вийдуть на мітинги у різних країнах з метою консолідації антиімперських сил.

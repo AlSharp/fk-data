@@ -8,8 +8,9 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 const config = {
   title: 'Free Kalmykia',
   tagline: 'In Numbers',
-  url: 'https://docs.freekalmykia.org/',
+  url: 'https://docs.freekalmykia.org',
   baseUrl: '/',
+  staticDirectories: ['public', 'static'],
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
   favicon: 'https://upload.wikimedia.org/wikipedia/commons/9/9f/Flag_of_Kalmykia.svg',
@@ -55,10 +56,15 @@ const config = {
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
     ({
       metadata: [
-        { name: 'keywords', content: 'Kalmykia, kalmyk, kalmyks, oirat, oirats, independence, freekalmykia, free kalmykia, captive nations, Elista' },
-        { name: 'keywords', content: 'Калмыкия, калмык, калмыки, ойрат, ойраты, независимость, Независимая Калмыкия, порабощенные народы, Элиста' }
+        { property: 'og:site_name', content: 'Free Kalmykia Docs' },
+        { property: 'og:image:width', content: '1200' },
+        { property: 'og:image:height', content: '630' },
+        { property: 'og:type', content: 'article' },
+        { name: 'twitter:card', content: 'summary_large_image' },
+        { name: 'twitter:site', content: '@freekalmykia' },
+        { name: 'twitter:domain', content: 'freekalmykia.org' },
       ],
-      image: 'https://upload.wikimedia.org/wikipedia/commons/9/9f/Flag_of_Kalmykia.svg',
+      image: 'https://docs.freekalmykia.org/img/flags/Kalmyk_default_flag.png',
       navbar: {
         title: 'Free Kalmykia',
         logo: {

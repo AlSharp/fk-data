@@ -3,7 +3,6 @@ slug: welcome
 title: Приветствие
 authors: [albert]
 tags: []
-keywords: [Albert Sharapov, Альберт Шарапов]
 ---
 
 Привет,

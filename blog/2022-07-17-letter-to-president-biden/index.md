@@ -2,10 +2,20 @@
 slug: letter-to-president-biden
 title: Free Nations League sends letter to President Joe Biden
 authors: [freenationsleague]
-image: ./biden_reads_the_letter.jpg
-tags: [Captive Nations Week, Free Nations League, US Government]
-keywrods: [Captive Nations Week, Free Nations League, US Government, USA, Biden, letter to Biden, Kalmykia, Buryatia, Tatarstan, Public Law 86-90]
+tags: [Captive Nations]
 ---
+
+<head>
+  <title>Free Kalmykia - Free Nations League sends letter to President Joe Biden</title>
+  <meta name="description" content="To introduce into the text of the law Public Law 86-90 Captive Nations Week Resolution the names of the nations held captive by Russia, a list of which we are ready to present separately" key="desc" />
+  <meta property="og:title" content="Free Nations League sends letter to President Joe Biden" />
+  <meta property="og:description" content="To introduce into the text of the law Public Law 86-90 Captive Nations Week Resolution the names of the nations held captive by Russia, a list of which we are ready to present separately"
+  />
+  <meta property="og:image" content="https://docs.freekalmykia.org/img/social/biden_reads_the_letter.jpg" />
+  <meta property="og:url" content="https://docs.freekalmykia.org/blog/welcome" />
+  <meta name="twitter:title" content="Free Nations League sends letter to President Joe Biden" />
+  <meta name="twitter:description" content="To introduce into the text of the law Public Law 86-90 Captive Nations Week Resolution the names of the nations held captive by Russia, a list of which we are ready to present separately" />
+</head>
 
 **<div>US President</div>**
 **<div>Joseph R. Biden Jr.</div>**
@@ -80,4 +90,4 @@ Tatar – Rafis Kashapov,
 
 Erzya – Syres Bolyaen, Vitaly Romashkin, Genio Markon.
 
-![Letter to President Joe Biden](./biden_reads_the_letter.jpg)
+![Letter to President Joe Biden](/img/social/biden_reads_the_letter.jpg)

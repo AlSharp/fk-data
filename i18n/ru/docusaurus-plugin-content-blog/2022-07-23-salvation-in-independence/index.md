@@ -3,12 +3,7 @@ slug: salvation-in-independence
 title: '«Спасение в независимости»: в 11 городах мира прошли акции представителей порабощенных Москвой народов'
 authors: [freenationsleague]
 image: ./image-23-07-22-21-33-3.jpeg
-tags: [
-  Captive Nations Week, Free Nations League,
-  kalmyks, Kalmykia, tatars, bashkirs, buryats,
-  Ukraine, War, Russia,
-  порабощенные народы, неделю порабощенных народов, Лига Свободных Наций, калмыки, Калмыкия, Украина, Война, Россия
-]
+tags: [Captive Nations]
 ---
 
 ![Калмыки и Буряты в Филадельфии](./image-23-07-22-21-33-3.jpeg)

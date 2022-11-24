@@ -2,12 +2,7 @@
 slug: letter-to-european-parliament
 title: Письмо Президенту Европейского Парламента Roberta Metsola
 authors: [freenationsleague]
-tags: [
-  Captive Nations Week, Free Nations League,
-  kalmyks, Kalmykia, oirads, oirad-kalmyks,
-  Ukraine, War, Russia, Kalmykia, Europe,
-  порабощенные народы, неделю порабощенных народов, Лига Свободных Наций, калмыки, Калмыкия, Украина, Война, Россия, Европа
-]
+tags: [Captive Nations]
 ---
 
 <head>
