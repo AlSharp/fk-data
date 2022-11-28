@@ -22,11 +22,9 @@ tags: [Captive Nations, Kalmykia]
   <meta name="twitter:description" content="The Congress of the Oirat-Kalmyk People appeals to all representatives of the Oirat-Kalmyk  people, wherever they live, to the entire multinational population of the Republic of Kalmykia — to support this Declaration in every possible way and be ready for the practical implementation  of the stated goal, to try to make their own contribution to the formation, strengthening and  development of the future free, independent and prosperous Republic of Kalmykia!" />
 </head>
 
-***translated by Google, edited James Ward***
-
 **October 26, 2022**
 
-Find original text [here](https://www.facebook.com/groups/1749317095326390/permalink/3263616193896465).
+Source in Russian language - [https://www.facebook.com/oirad.chuulhn/posts/pfbid026X9h5o3CcKdbFago9zEBrSQcRjCFtHiGAU3HffoqGP6ZtgUrwJ4qjpYMWNJttH3ol](https://www.facebook.com/oirad.chuulhn/posts/pfbid026X9h5o3CcKdbFago9zEBrSQcRjCFtHiGAU3HffoqGP6ZtgUrwJ4qjpYMWNJttH3ol).
 
 The Oirats have had several sovereign states in history. The last independent state of the Oirats  was liquidated by decree of Catherine II on October 19, 1771. The territory of the Oirat-Kalmyks was annexed and added to the Russian Empire.
 
