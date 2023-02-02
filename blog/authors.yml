@@ -7,7 +7,7 @@ albert:
 freenationsleague:
   name: Free Nations League
   title: Author
-  url: https://www.facebook.com/FreeNationsLeague
+  url: https://twitter.com/fnl_org
   image_url: https://pbs.twimg.com/profile_images/1549690969829904389/Yc_-3ek0_400x400.jpg
 
 oiradcongress:
@@ -15,3 +15,9 @@ oiradcongress:
   title: Author
   url: https://www.facebook.com/oirad.chuulhn
   image_url: https://docs.freekalmykia.org/img/social/oirad-congress.jpg
+
+mariaochir:
+  name: Maria Ochir-Goryaeva
+  title: Author
+  url: https://biblioclub.ru/index.php?page=author_red&id=189198&contrast=1
+  image_url: https://docs.freekalmykia.org/img/social/ochir_goryaeva_mariya.jpg

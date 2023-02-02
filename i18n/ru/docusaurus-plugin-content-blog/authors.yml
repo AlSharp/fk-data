@@ -7,11 +7,17 @@ albert:
 freenationsleague:
   name: Лига Свободных Наций
   title: Автор
-  url: https://www.facebook.com/FreeNationsLeague
+  url: https://twitter.com/fnl_org
   image_url: https://pbs.twimg.com/profile_images/1549690969829904389/Yc_-3ek0_400x400.jpg
 
 oiradcongress:
   name: Конгресс Ойрат-Калмыцкого Народа
-  title: Author
+  title: Автор
   url: https://www.facebook.com/oirad.chuulhn
   image_url: https://docs.freekalmykia.org/img/social/oirad-congress.jpg
+
+mariaochir:
+  name: Мария Очир-Горяева
+  title: Автор
+  url: https://biblioclub.ru/index.php?page=author_red&id=189198&contrast=1
+  image_url: https://docs.freekalmykia.org/img/social/ochir_goryaeva_mariya.jpg
