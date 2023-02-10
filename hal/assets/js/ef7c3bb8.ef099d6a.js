@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunk=self.webpackChunk||[]).push([[2736],{4272:a=>{a.exports=JSON.parse('{"permalink":"/hal/blog/tags/captive-nations/page/2","page":2,"postsPerPage":10,"totalPages":2,"totalCount":11,"previousPage":"/hal/blog/tags/captive-nations","blogDescription":"Blog","blogTitle":"Blog"}')}}]);

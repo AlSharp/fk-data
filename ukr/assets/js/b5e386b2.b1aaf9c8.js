@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunk=self.webpackChunk||[]).push([[9905],{2871:a=>{a.exports=JSON.parse('[{"label":"Captive Nations","permalink":"/ukr/blog/tags/captive-nations","count":11},{"label":"Kalmykia","permalink":"/ukr/blog/tags/kalmykia","count":1}]')}}]);
